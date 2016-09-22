@@ -11,5 +11,6 @@ kcp -di tree
 2-pwgen:
 ```
 kcp -di pwgen
+```
 
 [Pass (aka password-store)](https://www.passwordstore.org/)
